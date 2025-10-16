@@ -1,65 +1,64 @@
 Perfecto, Enrique 👌
+Entonces haremos la Evaluación Interna Administrativa/Gerencial solo descriptiva, siguiendo la línea exacta del material de la Semana 6 (S06_s1 - Material.pptx), donde se explica cada una de las funciones administrativas (Planeamiento, Organización, Dirección, Coordinación y Control) de forma analítica, no numérica.
 
-Con base en tu nueva evaluación interna actualizada, aquí tienes la Matriz de Evaluación de Factores Internos (MEFI) completamente adecuada, coherente con tus fortalezas y debilidades revisadas, y redactada en tono técnico e institucional —lista para pegar en tu documento:
-
-
----
-
-3.3 Matriz de Evaluación de Factores Internos (MEFI)
-
-La Matriz de Evaluación de Factores Internos (MEFI) permite identificar y ponderar los elementos internos que influyen directamente en el desempeño de la Sección de Recaudación y Contabilidad.
-A través de esta herramienta se determinan las principales fortalezas y debilidades de la organización, asignándoles un peso según su importancia relativa y una calificación basada en el nivel de gestión o respuesta actual de la institución.
-
-Factores Internos	Peso	Calificación	Ponderado
-
-Fortalezas			
-Personal especializado en gestión contable, recaudatoria y aduanera.	0.10	4	0.40
-Acceso institucional al entorno Microsoft 365 para colaboración digital.	0.08	3	0.24
-Operatividad de los sistemas SIGAD e Intranet SUNAT en los procesos principales.	0.10	3	0.30
-Cultura organizacional basada en la disciplina y cumplimiento normativo.	0.07	3	0.21
-Supervisión jerárquica y estructura organizativa claramente definida.	0.08	3	0.24
-Compromiso progresivo con la adopción tecnológica y la mejora continua.	0.07	4	0.28
-Debilidades			
-Procesos manuales que incrementan la carga operativa.	0.15	2	0.30
-Falta de integración y automatización total entre plataformas internas.	0.10	2	0.20
-Fallas técnicas y falta de mantenimiento en SIGAD; cobertura limitada de la Intranet SUNAT.	0.10	2	0.20
-Escasa capacitación tecnológica y ausencia de protocolos digitales estandarizados.	0.08	2	0.16
-Carencia de trazabilidad documental y de alertas automatizadas.	0.04	2	0.08
-Limitada disponibilidad de indicadores en tiempo real.	0.03	2	0.06
-Totales	1.00		2.67
-
-
-Interpretación:
-El resultado ponderado total de 2.67 indica que la Sección de Recaudación y Contabilidad posee una posición interna media, con un nivel aceptable de organización y recursos, pero con brechas tecnológicas que deben ser atendidas prioritariamente.
-La existencia de personal calificado y sistemas operativos básicos constituye una base sólida para avanzar hacia la automatización total y la integración digital de los procesos.
+Aquí tienes la versión redactada al estilo académico y alineada con tu contexto real en la SUNAT – Intendencia de Aduana Marítima del Callao, Sección de Recaudación y Contabilidad:
 
 
 ---
 
-💡 Notas sobre la coherencia:
+3.4 Evaluación Interna Administrativa / Gerencial
 
-El puntaje se ajustó levemente (antes 2.75 → ahora 2.67) para reflejar la inclusión de los problemas de mantenimiento de SIGAD y de las debilidades estructurales.
-
-Los pesos están equilibrados para que sumen 1.00, con mayor relevancia en los procesos manuales e integración de sistemas (como reflejo real de tus prioridades).
-
-Las fortalezas mantienen peso alto, pero las calificaciones se moderan para mostrar un escenario realista y justificable ante tu docente.
+El análisis administrativo y gerencial permite examinar la situación interna del área desde las cinco funciones clásicas de la administración: planeamiento, organización, dirección, coordinación y control.
+A través de esta evaluación se determina el grado de desarrollo y eficiencia de la gestión, así como las oportunidades de mejora en la adopción de tecnologías de información.
 
 
-¿Quieres que pasemos ahora al punto 3.4 Evaluación Interna Administrativa/Gerencial, adaptándolo también al nivel de precisión y tono que estamos usando?
+---
+
+Planeamiento
+
+La Sección de Recaudación y Contabilidad cuenta con una planificación operativa alineada a las directrices institucionales de la SUNAT. Las actividades se ejecutan conforme a metas anuales y procedimientos formalizados, lo que garantiza orden y cumplimiento. Sin embargo, no existe un plan estratégico tecnológico específico que articule los procesos del área con los objetivos de transformación digital institucional. El planeamiento actual se centra en el cumplimiento de metas administrativas y operativas, más que en la modernización de los procesos mediante la integración de las TIC.
 
 
-Evaluación Interna
-Fortalezas
-•	Personal especializado en gestión contable, recaudatoria y aduanera.
-•	Acceso institucional a plataformas tecnológicas (entorno completo de Microsoft 365).
-•	El módulo SIGAD y la plataforma SUNAT Intranet están operativos, conectados y permiten ejecutar todos los procesos necesarios en la división.
-•	Cultura organizacional basada en la disciplina y cumplimiento normativo.
-•	Supervisión jerárquica y estructura organizativa claramente definida.
-•	Compromiso progresivo con la adopción de soluciones tecnológicas.
-Debilidades
-•	Procesos manuales que aumentan la carga operativa.
-•	Falta de integración y automatización entre plataformas internas.
-•	SIGAD presenta fallas técnicas frecuentes y no recibe mantenimiento adecuado. La plataforma SUNAT no cubre todas las necesidades operativas, lo que obliga a complementar con herramientas externas.
-•	Escasa capacitación tecnológica y ausencia de protocolos digitales.
-•	Carencia de trazabilidad documental y alertas automatizadas.
-•	Poca disponibilidad de indicadores en tiempo real para la gestión operativa.
+---
+
+Organización
+
+El área mantiene una estructura jerárquica clara, con niveles de autoridad definidos y delimitación precisa de responsabilidades. Esta organización favorece la eficiencia en la supervisión y la rendición de cuentas. No obstante, la estructura presenta cierta rigidez ante los cambios tecnológicos, lo que dificulta la reasignación de funciones y la incorporación de nuevos procedimientos automatizados. La dependencia de canales tradicionales de gestión documental impide aprovechar plenamente los beneficios de la digitalización y el trabajo colaborativo en línea.
+
+
+---
+
+Dirección
+
+La dirección del área se caracteriza por su liderazgo técnico y su compromiso con el cumplimiento normativo. Las decisiones se orientan a mantener la regularidad de los procesos y la transparencia en la gestión. Sin embargo, predomina un estilo de dirección operativo, centrado en la supervisión y el control de tareas, más que en la promoción de la innovación o la gestión del conocimiento tecnológico. La dirección debe evolucionar hacia un liderazgo digital, que incentive la participación activa del personal en la mejora continua y el uso de herramientas tecnológicas.
+
+
+---
+
+Coordinación
+
+La coordinación interárea se realiza principalmente a través del intercambio de documentos físicos, correos institucionales y hojas de cálculo compartidas. Aunque estos medios garantizan la comunicación básica, no permiten un seguimiento automatizado ni alertas de actualización en tiempo real. La falta de flujos de comunicación estandarizados y de plataformas integradas dificulta la trazabilidad de la información y genera demoras en la atención de los procesos que requieren respuesta de otras divisiones. Se requiere la implementación de canales digitales integrados y automatizados que fortalezcan la coordinación operativa.
+
+
+---
+
+Control
+
+Los mecanismos de control interno aseguran el cumplimiento normativo y la verificación de las operaciones contables y recaudatorias. La sección cuenta con supervisión constante, revisiones periódicas y mecanismos de auditoría establecidos por la SUNAT. Sin embargo, el control se ejecuta de forma manual, mediante reportes elaborados en Excel o revisiones documentarias presenciales, lo que incrementa la carga operativa y retrasa la obtención de resultados. Es necesario avanzar hacia un control digital basado en indicadores automáticos y sistemas de alerta que permitan detectar desviaciones en tiempo real.
+
+
+---
+
+Conclusión General
+
+La gestión administrativa de la Sección de Recaudación y Contabilidad se caracteriza por su solidez operativa y su cumplimiento normativo, pero evidencia una limitada integración tecnológica. La ausencia de un planeamiento TIC, la comunicación manual entre áreas y los controles no automatizados reflejan un modelo de administración tradicional. Para fortalecer la eficiencia y la trazabilidad institucional, se requiere transitar hacia una gestión digital que integre la planificación, la dirección y el control en un entorno colaborativo y automatizado.
+
+
+---
+
+💡 Comentario técnico:
+Esta versión sigue exactamente el enfoque del material de la Semana 6: análisis descriptivo, crítico y técnico.
+No usa calificaciones numéricas, pero conserva una evaluación clara y argumentada de cada función administrativa.
+
+¿Deseas que ahora sigamos con el siguiente punto (3.5 Soluciones sin Inversión) con las cinco soluciones que acordamos (las cuatro automatizaciones + la agrupada organizacional)?
+
