@@ -1,8 +1,16 @@
-Males Endémicos de la Empresa
-La Intendencia de Aduana Marítima del Callao, específicamente la Sección de Recaudación y Contabilidad, presenta diversos males endémicos asociados a su estructura tradicional y al uso parcial de herramientas tecnológicas. Estos factores limitan la eficiencia operativa y la trazabilidad de la información en los procesos internos.
-Los principales males identificados son:
-1.	Procesos manuales y mecánicos: La ejecución de tareas contables y administrativas continúa dependiendo del registro manual, lo que incrementa los tiempos de respuesta y el riesgo de errores humanos.
-2.	Uso disperso de herramientas sin alineación funcional: Aunque existen conexiones entre sus plataformas, el uso paralelo de herramientas como Excel compartido o sharepoint sin una lógica común de operación genera dispersión en los flujos de trabajo. Esta falta de alineación funcional entre medios digitales complica la trazabilidad, ralentiza la gestión y limita el aprovechamiento pleno de las plataformas disponibles.
-3.	Resistencia al cambio tecnológico: Algunos trabajadores muestran reticencia a adoptar nuevas herramientas digitales, lo que dificulta la modernización de los procesos.
-4.	Falta de estandarización de formatos entre áreas: Cada división utiliza formatos distintos para registrar y compartir información, lo que dificulta la interoperabilidad y el procesamiento automatizado de la información. Esta falta de uniformidad dificulta la automatización de procesos, la comparación datos de manera eficiente y la trazabilidad entre áreas, generando sobrecarga operativa y errores recurrentes.
-5.	Ausencia de indicadores automáticos: Los reportes se elaboran manualmente, impidiendo un control eficiente y actualizado de la carga operativa y del cumplimiento de plazos.
+
+Evaluación Interna
+Fortalezas
+•	Personal especializado en gestión contable, recaudatoria y aduanera.
+•	Acceso institucional a plataformas tecnológicas (entorno completo de Microsoft 365).
+•	El módulo SIGAD y la plataforma SUNAT Intranet están operativos, conectados y permiten ejecutar todos los procesos necesarios en la división.
+•	Cultura organizacional basada en la disciplina y cumplimiento normativo.
+•	Supervisión jerárquica y estructura organizativa claramente definida.
+•	Compromiso progresivo con la adopción de soluciones tecnológicas.
+Debilidades
+•	Procesos manuales que aumentan la carga operativa.
+•	Falta de integración y automatización entre plataformas internas.
+•	SIGAD presenta fallas técnicas frecuentes y no recibe mantenimiento adecuado. La plataforma SUNAT no cubre todas las necesidades operativas, lo que obliga a complementar con herramientas externas.
+•	Escasa capacitación tecnológica y ausencia de protocolos digitales.
+•	Carencia de trazabilidad documental y alertas automatizadas.
+•	Poca disponibilidad de indicadores en tiempo real para la gestión operativa.
