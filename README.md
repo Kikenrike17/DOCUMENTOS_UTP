@@ -1,8 +1,8 @@
-AVANCE 2
-INFORME:
-https://utpedupe-my.sharepoint.com/:w:/g/personal/u21217065_utp_edu_pe/ERzCA3VgDMxEvT76rVugh2cBnNv1jdtilEvM6Oyy_Z2zHg?e=eAHi6f
-PPT:
-https://utpedupe-my.sharepoint.com/:p:/g/personal/u21217065_utp_edu_pe/ETWRk2nG8-lGhcMXLPDJEN8BherNFy8x_MCXCBktBobCHQ?e=cajXh6
-https://www.upscale.media/es/upload
-
-
+Males Endémicos de la Empresa
+La Intendencia de Aduana Marítima del Callao, específicamente la Sección de Recaudación y Contabilidad, presenta diversos males endémicos asociados a su estructura tradicional y al uso parcial de herramientas tecnológicas. Estos factores limitan la eficiencia operativa y la trazabilidad de la información en los procesos internos.
+Los principales males identificados son:
+1.	Procesos manuales y mecánicos: La ejecución de tareas contables y administrativas continúa dependiendo del registro manual, lo que incrementa los tiempos de respuesta y el riesgo de errores humanos.
+2.	Uso disperso de herramientas sin alineación funcional: Aunque existen conexiones entre sus plataformas, el uso paralelo de herramientas como Excel compartido o sharepoint sin una lógica común de operación genera dispersión en los flujos de trabajo. Esta falta de alineación funcional entre medios digitales complica la trazabilidad, ralentiza la gestión y limita el aprovechamiento pleno de las plataformas disponibles.
+3.	Resistencia al cambio tecnológico: Algunos trabajadores muestran reticencia a adoptar nuevas herramientas digitales, lo que dificulta la modernización de los procesos.
+4.	Falta de estandarización de formatos entre áreas: Cada división utiliza formatos distintos para registrar y compartir información, lo que dificulta la interoperabilidad y el procesamiento automatizado de la información. Esta falta de uniformidad dificulta la automatización de procesos, la comparación datos de manera eficiente y la trazabilidad entre áreas, generando sobrecarga operativa y errores recurrentes.
+5.	Ausencia de indicadores automáticos: Los reportes se elaboran manualmente, impidiendo un control eficiente y actualizado de la carga operativa y del cumplimiento de plazos.
